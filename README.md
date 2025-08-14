@@ -50,7 +50,7 @@ utils/         # Helpers
    ```
 2. **Start the app**
    ```bash
-   npx expo start
+   mpm start
    ```
 3. **Run on device**
    - Scan QR with Expo Go or use a simulator
