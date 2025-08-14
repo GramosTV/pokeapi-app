@@ -45,7 +45,7 @@ utils/         # Helpers
 1. **Clone and install**
    ```bash
    git clone https://github.com/GramosTV/pokeapi-app
-   cd my-expo-app
+   cd pokeapi-app
    npm install
    ```
 2. **Start the app**
